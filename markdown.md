@@ -11,8 +11,6 @@ _italic text_
 
 Example: *italic*
 
-------
-
 # Bold
 
 ```
