@@ -31,9 +31,9 @@ $> git commit -m "Initial commit"
 ![Image](git-media/copy-remote-repository-url.png)
 
 ```
-$ git remote add origin remote repository URL
+$> git remote add origin <remote-repository-URL>
 # Sets the new remote
-$ git remote -v
+$> git remote -v
 # Verifies the new remote URL
 ```
 
