@@ -102,7 +102,7 @@ or
 - List
 ```
 
-**Note**
+**Note:**
 Nexted bulleted lists can happen using `tab`.
 ```
 * list1
