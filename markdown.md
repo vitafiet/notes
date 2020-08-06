@@ -102,6 +102,15 @@ or
 - List
 ```
 
+**Note**
+Nexted bulleted lists can happen using `tab`.
+```
+* list1
+* list2
+    * nested item2.1
+    * nested item2.2
+```
+
 ## Numbered
 ```
 1. One
