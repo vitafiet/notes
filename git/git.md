@@ -26,6 +26,8 @@ $> git add .
 $> git commit -m "Initial commit"
 ```
 
+**Note:** You may have to configure the Name and Email for the local repository before you should be able to commit. Decide whether you'll set such config [locally](git-config.md#to-set-repository-specific-usernameemail-configuration) to the repository or [globally](git-config.md#to-set-your-global-usernameemail-configuration).
+
 6) Use the remote repository's GIT URL and run `git remote add origin`.
 
 ![Image](git-media/copy-remote-repository-url.png)
