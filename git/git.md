@@ -44,3 +44,9 @@ $> git remote -v
 ```
 $ git push origin master
 ```
+**Note:** If you wish to set tracking information for this branch you can do so with: `git branch --set-upstream-to=origin/<branch> master` \
+For example:
+```
+$ git branch --set-upstream-to=origin/master
+$ git push
+```
