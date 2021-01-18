@@ -19,3 +19,11 @@ You need to configure you Git user-name and email before you can run any Git ope
 `git config user.email "user@example.com"`
 4. *Optional:* verify your configuration by displaying your configuration file. \
 `cat .git/config`
+
+### View/Edit your configuration in a text editor.
+
+Run the below commands for Git to launch the default editor with current cofiguration.
+You can make changes to it and save it for the config. to take effect from next use.
+
+**Local config:** `git config --local --edit` \
+**Global config:** `git config --global --edit`
